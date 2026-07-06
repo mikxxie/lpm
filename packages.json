@@ -7,14 +7,14 @@
       "version": "1.0.2",
       "description": "A fast, highly customizable system info script",
       "architecture": "aarch64",
-      "download_url": "https://mikxxie.github.io/longos-repo/packages/neofetch-1.0.2.lpk",
+      "download_url": "https://mikxxie.github.io/lpm/packagesa/rm64/neofetch-1.0.2.lpk",
       "dependencies": []
     },
     "doom": {
       "version": "1.0.0",
       "description": "It runs Doom, obviously",
       "architecture": "aarch64",
-      "download_url": "https://mikxxie.github.io/longos-repo/packages/doom-1.0.0.lpk",
+      "download_url": "https://mikxxie.github.io/lpm/packages/arm64/doom-1.0.0.lpk",
       "dependencies": ["libpng", "sdl2"]
       }
     }
