@@ -1,0 +1,22 @@
+{
+  "repository": "LPM Official Repo",
+  "updated": "2026-07-06",
+  "packages": {
+    "aarch64": {
+    "neofetch": {
+      "version": "1.0.2",
+      "description": "A fast, highly customizable system info script",
+      "architecture": "aarch64",
+      "download_url": "https://mikxxie.github.io/longos-repo/packages/neofetch-1.0.2.lpk",
+      "dependencies": []
+    },
+    "doom": {
+      "version": "1.0.0",
+      "description": "It runs Doom, obviously",
+      "architecture": "aarch64",
+      "download_url": "https://mikxxie.github.io/longos-repo/packages/doom-1.0.0.lpk",
+      "dependencies": ["libpng", "sdl2"]
+      }
+    }
+  }
+}
